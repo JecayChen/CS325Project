@@ -46,27 +46,36 @@ def llmQuery(modelName):
 
 def project():
     sentimentQuery = "Respond with concisely only either negative, positive, or neutral sentiment of this statement:"
-    fileName = input("     Input file name: ")
+    fileName = input("     Input file name:\n\n")
     fileLines = []
     with open(fileName, 'r') as file:
         for line in file:
             fileLines.append(line.strip())
+
+    with open('response.txt', 'w') as file:
+            file.write("")
+
     modelNames = ["phi3.5", "gemma3"]
+
     for name in modelNames:
         modelName = name
+        stopCommand = ["ollama", "stop", modelName]
+
         for fileLine in fileLines:
             line = str(fileLine)
             llmPrompt = sentimentQuery + " " + line
             queryCommand = ["ollama", "run", modelName, llmPrompt]
-            stopCommand = ["ollama", "stop", modelName]
 
             try:
                 result = subprocess.run(queryCommand, capture_output=True, text=True, check=True)
-                print("     ", modelName, " Response to ", llmPrompt, ":\n\n", result.stdout)
-                subprocess.run(stopCommand, text=True, check=True)
+                fileInput = "     " + modelName + " Response to " + line + ":\n\n" + result.stdout
+                with open('response.txt', 'a') as file:
+                    file.write(fileInput)
 
             except subprocess.CalledProcessError as e:
                 print("Error while calling Ollama:", e)
+
+        subprocess.run(stopCommand, text=True, check=True)
 
 if __name__ == "__main__":
     main()

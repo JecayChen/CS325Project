@@ -1,0 +1,27 @@
+     phi3.5 Response to A shocking Chinese AI advancement called DeepSeek is sending US stocks plunging:
+
+Negative sentiment. The mention of a significant drop in U.S. stocks due to an event (Chinese AI advancement) carries negative implications for market confidence and economic perception. Even though the technological advance itself might be positive, its impact on markets is framed negatively here.
+
+     phi3.5 Response to As sales slump, Kohl’s turns to a new CEO to bring back customers:
+
+Positive - The appointment suggests optimism for change and an attempt to address the issue.
+
+     phi3.5 Response to Expect record-high egg prices for most of the year:
+
+Negative sentiment. This forecasts a financial challenge due to rising costs and implies inconvenience or difficulty in purchasing eggs at affordable prices.
+
+     gemma3 Response to A shocking Chinese AI advancement called DeepSeek is sending US stocks plunging:
+
+Negative
+
+
+     gemma3 Response to As sales slump, Kohl’s turns to a new CEO to bring back customers:
+
+Positive
+
+
+     gemma3 Response to Expect record-high egg prices for most of the year:
+
+Negative
+
+
