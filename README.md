@@ -6,8 +6,8 @@
 2. Once Ollama is installed, enter these commands in the CLI to install the most recent version of phi3.5 and gemma3:4b
     - <code>ollama pull phi3.5</code>
     - <code>ollama pull gemma3:4b</code>
-3. Download the project files.
-4. Import the .yaml file for the Conda environment and cctivate it.
+3. Download the project files and locate them in the CLI.
+4. Import the .yaml file for the Conda environment and activate it.
     - <code>conda env create -f environment.yaml</code>
     - <code>conda activate cs325project</code>
 5. Run the Python main.py script
