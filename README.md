@@ -4,8 +4,8 @@
 
 1. Go to [Ollama](https://ollama.com/download) and download the most recent version for your device.
 2. Once Ollama is installed, enter these commands in the CLI to install the most recent version of phi3.5 and gemma3:4b
-    - <code>ollama run phi3.5</code>
-    - <code>ollama run gemma3:4b</code>
+    - <code>ollama pull phi3.5</code>
+    - <code>ollama pull gemma3:4b</code>
 3. Download the project files.
 4. Import the .yaml file for the Conda environment and cctivate it.
     - <code>conda env create -f environment.yaml</code>
