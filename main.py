@@ -46,7 +46,7 @@ def llmQuery(modelName):
 
 def project():
     sentimentQuery = "Respond with concisely only either negative, positive, or neutral sentiment of this statement:"
-    fileName = input("Input file name: ")
+    fileName = input("     Input file name: ")
     fileLines = []
     with open(fileName, 'r') as file:
         for line in file:
