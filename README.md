@@ -1,9 +1,16 @@
 # CS325 Project
 
+This is a negative, positive, neutral sentiment analyzer.
+
+Currently, it is preloaded with:
+- Phi3.5
+- Gemma3:4B
+- a file reader
+
 ## Setting Up
 
 1. Go to [Ollama](https://ollama.com/download) and download the most recent version for your device.
-2. Once Ollama is installed, run it.
+2. Run Ollama.
 3. Enter these commands in the CLI to install the most recent version of phi3.5 and gemma3:4b
     - <code>ollama pull phi3.5</code>
     - <code>ollama pull gemma3:4b</code>
