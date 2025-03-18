@@ -56,7 +56,7 @@ def project():
         for line in file:
             fileLines.append(line.strip())
 
-    #clean response text
+    #clean response text file
     with open('response.txt', 'w') as file:
             file.write("")
 
