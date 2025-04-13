@@ -1,6 +1,11 @@
 # CS325 Project
 
 This is a negative, positive, neutral sentiment analyzer.
+An additional web scraper for most websites has been added.
+
+NOTE: The web scraper may not work for specific websites that are designed differently or are protected. Your milage wil vary.
+
+NOTE: Currently the sentiment analyzer has been disabled due to conflicts with the web scrapper. We are currently working on rectifying this issue.
 
 Currently, it is preloaded with:
 - Phi3.5
@@ -13,7 +18,7 @@ Currently, it is preloaded with:
 2. Run Ollama.
 3. Enter these commands in the CLI to install the most recent version of phi3.5 and gemma3:4b
     - <code>ollama pull phi3.5</code>
-    - <code>ollama pull gemma3:4b</code>
+    - <code>ollama pull gemma3:4b</code>V
 4. Download the project files and locate them in the CLI.
 5. Import the .yaml file for the Conda environment and activate it.
     - <code>conda env create -f requirements.yaml</code>
