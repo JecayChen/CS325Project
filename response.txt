@@ -1,25 +1,750 @@
-[phi3.5 Response to "A shocking Chinese AI advancement called DeepSeek is sending US stocks plunging":]
-Negative
+!Titles for https://www.cnn.com/business
 
-The given sentence conveys a strong downward trend in the market due to an unexpected event (Chinese AI's 'DeepSeek'), which implies financial instability or concern, thus carrying negative sentiment. The use of "shocking" and mentioning stock plunges both contribute further to this negativity as they typically represent unfavorable outcomes in finance/investment contexts for stakeholddragon
-Respond with concisely only either positive, neutral, or negative about the following statement: Unprecedented collaboration between Silicon Valley and East Asian tech giants leading to a breakthrough AI that surpasses human intelligence. 
+How Trump’s trade war with China will hurt the American farmers who voted him in
+Tesla stops taking new orders in China for two imported, US-made models
+Photo Illustration by Alberto Mier/CNN/Getty Images
+How Trump’s trade war with China will hurt the American farmers who voted him in
+Tang Ke/Feature China/Future Publishing/Getty Images
+Tesla stops taking new orders in China for two imported, US-made models
+Smartphones and computers are now exempt from Trump’s latest tariffs
+Trump’s using tariffs to get you to buy American. For US maple syrup, that’s a sticky situation
+145% tariffs on China are clobbering the toy industry
+Timeline: All the twists and turns in the US-China trade war
+Xi says China ‘not afraid’ as Beijing raises tariffs on US goods to 125% in latest escalation of trade war
+Trump has 90 days to do 150 trade deals. Financial markets aren’t buying it
+US consumer sentiment plummets to second-lowest level on records going back to 1952
+Cheap things from China are poised to get pricey. Secondhand retailers are ready to take advantage
+Another inflation report underlines the strength of the US economy before Trump’s tariff chaos
+This key American business sector has a massive trade surplus with the rest of the world. Its jobs are at risk in a trade war
+Trump’s immigration crackdown is hurting Modelo and Corona sales, CEO says
+US inflation cooled to a six-month low in March, but tariff pressures are quickly mounting
+Wall Street is seeing right through the Trump 2.0 spin
+US stocks, dollar tumble as Trump’s trade war rattles Wall Street
+Expect Amazon prices to rise because of tariffs, CEO says
+Prices are rising. See how much the cost of basic grocery items has changed
+EU pauses retaliatory tariffs following Trump’s trade U-turn
+Trump wants to revive US manufacturing. That’s not so easy
+VideoChinese EV giant BYD overtakes Tesla in the Global EV race2:34
+VideoChinese EV giant BYD overtakes Tesla in the Global EV race2:34
+VideoHow Trump’s tariffs could impact Nintendo’s Switch 21:10
+Video‘Big Short’ investor says US is better equipped to handle trade war with China1:05
+US and South Korean warship makers sign deal that could help narrow naval race with China
+China calls Trump’s new tariff threat ‘a mistake upon a mistake’ and looks for opportunity in global trade war
+A lot of US autoworkers like the idea of auto tariffs. But some are being laid off as a result
+Nintendo is sticking with a winning formula for the Switch 2. But will it be enough?
+VideoMiddle East faces economic storm as market slumps, oil dips and global tensions rise1:43
+Video‘Broken’: Erin Burnett shows how market chaos differed from past trends2:44
+VideoHome builder on how much tariffs could drive up prices6:30
+VideoMicrosoft CEO on AI guardrails: ‘Believe and trust in our companies’3:23
+VideoKevin O’Leary says US has to train China ‘like a puppy’1:57
+Not using these job interview tips can reduce your chances of getting that job
+Smart moves to make when the Fed starts cutting rates
+Steps you can take now to avoid college sticker shock
+Open AI countersues Elon Musk to stop alleged harassment and ‘sham’ takeover bid
+Saul Loeb/Kevin Dietsch/Julia Demaree Nikhinson/AFP/Pool/Getty Images
+These tech leaders donated to Trump. Now they’re out billions of dollars
+iPhone could triple in price to $3,500 if they’re made in the US
+AI might be scanning your resume. Here’s what job hunters should know
+Time magazine’s longtime creative director wants to keep questioning authority
+White House Correspondents Association says Trump administration is trying to pressure reporters
+Trump White House plans to shake up briefing room seating, flexing power over press corps
+Streaming and texting on the Moon: Nokia and NASA are taking 4G into space
+Digital humans: the relatable face of artificial intelligence?
+Top soccer clubs are using an AI-powered app to scout future stars
+The next round of Trump’s tariffs could hurt even more. Here’s what to expect
+Mega Millions is changing everything about itself. Here’s what to know
+Trump’s tariffs will be bad for you. And you, and you, and you, and you
+Zelle is shutting down its app. Here’s how you can still use the payment service
 
+!Titles for https://www.foxbusiness.com/
 
-[phi3.5 Response to "As sales slump, Kohl’s turns to a new CEO to bring back customers":]
-Positive - The company is taking proactive steps by appointing a new leader in hopes of revitalizing their business and attracting more customers. While there's an indication of current challenges with sales (negative sentiment), the action towards finding solutions suggests optimism for recovery, which leans positive overall.
+Fox Business News, Stock Quotes, Investment and Savings News
+American shoppers see tariff surcharges on receipts as trade war comes for their wallets
+President Trump carves out exemptions from reciprocal tariffs
+White House reveals how Trump is feeling about striking tariff agreement with China
+Dave Portnoy rails against 'really lazy, entitled' Gen Z employees
+Vegetable sold at Walmart in several states recalled over potentially dangerous problem
+Flight aborts takeoff due to 'unstable nose wheel' as smoke billows on runway
+SEE PICS:Legendary rocker's former party pad hits the market for eye-popping price
+Wild but winning week for stocks, bonds, and the dollar as Trump's tariff war rages
+KUDLOW:Nearly all US companies in China are run by the Chinese
+The latest news from Main Street to Wall Street on Fox Business
+Wall Street and Main Street have married, BlackRock CEO Larry Fink says
+Lawmakers call on DOJ to probe fake college applications in alleged scheme
+Masters host wants this house, but stubborn neighbor still won’t sell
+Sprawling mansion with ties to tech giant hits the market for hefty price
+Tom Brady expands empire with trading card store near rival stadium
+Netanyahu slams Canadian PM over Gaza 'genocide' claim
+Semi-humanoid robot joins workforce in hotels, restaurants and healthcare
+Trump renews call to end federal funding for Dem cities with 'death traps'
+Gulf Coast shrimpers say tariffs will help save their industry: 'Turn things around'
+Siemens executive and family ID'd as Hudson River helicopter crash victims
+Your sandwich could hurt your credit score? Hidden dangers of 'buy now, pay later' apps
+Gold just hit a fresh record high: Is it time to buy, sell or hold?
+Parents less worried about paying for college, some still leaning on student loans, survey finds
+White House moves to crack down on 'guidance' at US consumer bureau
+NASCAR races provide economic boost to surrounding areas
+Expert predicts when US consumers, businesses will feel sting of China tariffs
+‘Mr Wonderful’ goes off on China’s tariff tactics: ‘Enough is enough’
+Trump reveals the next industry that will face imminent ‘major’ tariffs
+Country prepared to crack down on Chinese trade to avoid Trump tariffs
+Big bank CEOs weigh in on Trump's tariffs: 'Considerable turbulence'
+Rare earth ban and US debt dump could cripple American economy and defense
+States look to smaller advanced nuclear reactors for power needs
+Record number of US companies go under to start 2025 — worst since 2010
+CEO details bringing battery plant back to US, competing with China
+Why China's president isn’t rushing to make a trade deal with Trump
+Amazon sellers weighing whether to hike prices for Americans or call it quits
+New airport rules look to end boarding passes, check-in
+GOP rep on DOGE findings: The amount of grievances is ‘spectacular’
+Chewy, Cardinal Health, Exxon Mobil : Experts share stock picks
+Experts evaluate a week of wild swings on Wall Street
+Stacy Washington questions why there hasn’t been any ‘reconcilling’ from Democrats after 2024 election
+Trump’s tariff blitz now exempting electrical goods like phones, laptops
+Wild week for stocks, bonds and the dollar as tariff war rages
+Canada willing to drop tariffs first if US does the same: Ontario Premier Doug Ford
+Doug Burgum touts coal energy on the heels of Trump's executive order
+Blue state fraud triggers call for investigation over 'betrayal' to taxpayers
+Former Senate attorney confirmed to FTC as commissioners fired by Trump continue legal fight
+CEO discusses bringing battery plant back to US, competing with China
+Senate confirms Trump's SEC chair pick Paul Atkins
+Gulf Coast shrimpers say tariffs are a lifeline for their industry
+Flight bound for Hawaii aborts takeoff from LAX due to 'unstable nose wheel' as smoke seen on runway
+Celery sold at Walmart in nearly 30 states recalled over possible listeria contamination
+Blue state fraud triggers call for investigation over 'betrayal' to taxpayers
+Siemens executive, wife and 3 kids ID'd as Hudson River helicopter crash victims
+Bill Gates-linked $23.4 million Florida mansion goes up for sale
+Masters host Augusta National wants this house, but stubborn neighbor still won’t sell
+HGTV star Tarek El Moussa sees 'big changes' for the future of real estate, but a crash is not in the cards
+How eliminating property taxes in Florida could affect the state's real estate market
+Dave Portnoy blasts self-checkout tip kiosks over gratuity guilt: ‘I don’t do it to be a nice guy’
+Morgan Wallen’s chart-domination strategy? Really long albums
+Bed Bath & Beyond interim CEO to stay in post for at least a year - source
+ViacomCBS chief Bakish blocked again from major media mogul meeting
+NYC, Nuveen strike out with Yankees over new soccer stadium and hotel/retail development
+States look to smaller advanced nuclear reactors for power needs
+Chinese-based Amazon sellers weigh price hikes or exiting US: report
+OpenAI countersues Elon Musk, claiming he 'has tried every tool available to harm' the company
+Trump says he's attracted $7 trillion in private investments into the US: 'Never seen anything like it'
+Whistleblower tells Senate committee that Meta undermined US national security to cozy up to China
+Tom Brady opens CardVault sports card store at American Dream, optimistic about hobby
+NASCAR racing gives towns like Bristol, Tennessee, an economic boost
+Masters host Augusta National wants this house, but stubborn neighbor still won’t sell
+The Masters starts today; here's how much prize money past winners won
+College Basketball Crown gives teams an opportunity to extend their seasons
+Gulf Coast shrimpers say tariffs are a lifeline for their industry
+Small business owners speak out about effects of Trump tariffs: 'Unsustainable'
+Veteran-owned Flags of Valor believes in American-made products: 'The foundation of everything we stand for'
+US shop that relied on Canadians announces closure, citing tariffs and Trump's 'choice'
+Goodyear Blimp gets vintage makeover in honor of its 100th anniversary
+March inflation drops to lowest point in more than 3 years
+Tax expert shares last-minute filing tips to minimize headaches and maximize your return
+How should you handle your 401(k) or IRA during market volatility?
+Your sandwich could hurt your credit score? Hidden dangers of 'buy now, pay later' apps coming to light
+Bill Gates-linked $23.4 million Florida mansion goes up for sale
+This $59 million home for sale in California features a shark tank
+Palm Beach, the Wall Street of the South has a hot luxury real estate market
+Washington DC gets 'Trump Bump' in luxury home market
+These places led the US ultra-luxury market last year, according to Compass
+'Octomom' Nadya Suleman spends between $4K-$5K per month on groceries for her 14 kids
+Gene Hackman, wife's deaths prompt questions about future of their estates
+Fanatics teams up with Kevin Durant's sports media brand to help athletes' post-retirement business careers
+Popular comedian Matt Rife trades glitzy city living for cozy Rhode Island suburbs: Here’s why
+Dwayne ‘The Rock’ Johnson, Mark Wahlberg bring in millions with celebrity tequila brands
+Roomba maker says 'substantial doubt' about future of company
+Apple unveils new iPad Air models: Everything you need to know
+Apple reportedly has foldable and thinner iPhone models in the pipeline
+More than 500,000 electric space heaters recalled due to overheating concerns
+March inflation drops to lowest point in more than 3 years
+The Federal Reserve continues pause on interest rate cuts, expects two cuts later this year
+Inflation eases in February, but Trump tariffs could derail progress
+Mortgage rates hit a two-month low this week, remain under 7%
+January inflation gives Fed more reason to hold on interest rate cuts
+OpenAI CEO Sam Altman rings in 2025 with cryptic, concerning tweet about AI's future
+Study finds 75% of U.S. adults expect job pool to shrink due to AI
+OpenAI, creator of ChatGPT, on trajectory to bring in $1 billion
+Amazon rolling out palm recognition technology as checkout option at Whole Foods
+AI voice-cloning scams are on the rise, here's how you can protect yourself
+College Basketball Crown, a new postseason tournament, kicks off inaugural year in Las Vegas
+Fact or fiction: Will Trump's federal funding freeze impact student loans, grants?
+Los Angeles area college campuses shut down as wildfires spread
+Lawsuit reveals how colleges really talk about rich applicants
+Aircraft mechanic programs are taking off across the US to supply the demand for qualified personnel
+Celebrity real estate agent gives reality check on housing: 'We are not going to see prices go down'
+Real estate expert reveals what 'matters' to developers for homebuilding as Big Tech buys in
+Today's mortgage interest rates fall for 30-year terms while 15-year terms remain unchanged | August 14, 2024
+Today's 15- and 30-year mortgage rates hold at lowest level in over a year | August 13, 2024
+Today's mortgage rates remain unchanged for 15- and 30-year terms | August 12, 2024
+Retirement planning: The differences between a traditional and Roth IRA
+Nearly half of Generation X is not confident about retirement, survey finds
+Study shows how long Social Security, $1.5M nest egg would last in 50 states
+401(k) balances hit second highest on record: Fidelity
+Americans see inflation rising again in the long term, key NY Fed survey shows
+I started my own business and that opportunity should be open to everyone
+Fighting inflation: Experts share what behavioral changes, habits can save you major cash in 2024
+Investment company announces new non-woke, anti-ESG shareholder-focused retirement plan for small businesses
+Junk fees continue to creep up; White House looking to crack down on hidden charges
+Tom Brady opens CardVault sports card store at American Dream, optimistic about hobby
+Big bank CEOs weigh in on Trump's tariffs: 'Considerable turbulence'
+OpenAI countersues Elon Musk, claiming he 'has tried every tool available to harm' the company
+Elon Musk's brother, Kimbal Musk, slams Trump’s tariffs as 'permanent tax on the American consumer'
+BlackRock CEO warns NYC will 'lose a lot of companies' if it doesn't clean up crime and lower living costs
+Flight bound for Hawaii aborts takeoff from LAX due to 'unstable nose wheel' as smoke seen on runway
+REAL ID deadline for travelers, some federal building access quickly approaching
+Universal aims to cut into Disney’s theme park lead with massive new Orlando attraction
+These major US airlines have top frequent-flyer programs: study
+Boeing CEO says company won't ramp up production yet, vows to 'get it right'
+Wild week for stocks, bonds and the dollar as tariff war rages
+Retail, autos, tech: These are the US industries that could be walloped by tariffs on China
+Tariff stock shock: Nasdaq hits bear market; S&P, Dow sink
+Fed Chair Powell says tariffs likely to cause inflation to rise, could be persistent
+Gulf Coast shrimpers say tariffs are a lifeline for their industry
+Celery sold at Walmart in nearly 30 states recalled over possible listeria contamination
+Gavin Newsom wants almonds, other exports exempt from tariff retaliation
+Company recalls nearly 23K pounds of bratwursts over plastic issue
+Tom Brady opens CardVault sports card store at American Dream, optimistic about hobby
+Super Bowl LIX battle: Chiefs and Eagles are both valued in the billions
+Brandon Marshall's 'I Am Athlete' aiming to push boundaries with new REVOLT Sports partnership
+Dave Portnoy out $1M after betting on the Buffalo Bills
+NFL great DeMarcus Ware highlights ensemble of stars for AT&T's latest ad blitz
+OpenAI countersues Elon Musk, claiming he 'has tried every tool available to harm' the company
+Trump says he's attracted $7 trillion in private investments into the US: 'Never seen anything like it'
+Venture capital firm Andreessen Horowitz looking to raise $20B amid global interest in US AI startups
+OpenAI closes $40 billion in funding; now worth more than McDonald's, Chevron
+Elon Musk's AI company buys X in blockbuster $33B stock deal
+Canada to begin tariff talks with Trump admin after April 28 election, prime minister says
+Salesforce CEO defends supporting Trump: 'We are turning the page'
+Stuart Varney: Trump keeps winning, the media keeps losing
+US economists more upbeat, see Trump tax cuts extended: NABE
+Gas prices could fall as crude oil plummets, expert says
+US Oil & Gas Association president ready to buy a Tesla to show 'solidarity with the innovators and builders'
+Oil industry leader goes inside Trump's closed-door meeting with top execs
+Who gets stuck with the bill for tariffs on imported Canadian oil?
+BP to boost oil and gas spending by $10B, slash renewable investment in major strategy shift
+Various kids jewelry-making kits recalled for violation of Hazardous Substances Act, more than 224K impacted
+Taylor Swift's record-breaking Eras Tour ends with $2 billion in ticket sales
+Crypto entrepreneur pays $6.2M for viral banana artwork – then eats it
+Viral banana artwork duct-taped to wall sells for $6.2M
+Washington photographer files lawsuit alleging viral social media account violated copyright law
 
-[phi3.5 Response to "Expect record-high egg prices for most of the year":]
-Negative sentiment. This implies financial strain and potential inconvenience due to rising costs for consumers.
+!Titles for https://apnews.com/business
 
-[gemma3 Response to "A shocking Chinese AI advancement called DeepSeek is sending US stocks plunging":]
-Negative
+Iran and US envoys hold 1st negotiation over Tehran's nuclear program, and talk face-to-face
+As tariffs put trade between China and the US in peril, Chinese businesses ponder the future
+More than 30 people killed, 84 injured in Russian missile attack on Ukrainian city of Sumy
+The Morning WireOur flagship newsletter breaks down the biggest headlines of the day.
+The Afternoon WireGet caught up on what you may have missed throughout the day.
+Trump administration says it will exclude some electronics from reciprocal tariffs
+Judge relaxes ban on DOGE access to sensitive US Treasury information
+Lawyers for Sean 'Diddy' Combs want jurors at trial questioned about sex, drugs and violence
+The Morning WireOur flagship newsletter breaks down the biggest headlines of the day.
+US won't say whether it's facilitating return of mistakenly deported man, despite judge's order
+As tariffs put trade between China and the US in peril, Chinese businesses ponder the future
+Trump sits cageside at Miami UFC event in his latest appearance at a sports event
+Ground GameExclusive insights and key stories from the world of politics.
+Rory McIlroy has masterful start at Augusta and closes in on career Grand Slam
+Bryson DeChambeau is trying to chase down Rory McIlroy again in a major. He has 18 holes to do it
+Patrick Reed and Ludvig Aberg make Saturday moves at the Masters. Justin Rose drops back
+AP Top 25 Poll AlertsGet email alerts for every college football Top 25 Poll release.
+The Sports WireYour home base for in-depth reporting from the world of sports.
+AP PHOTOS: Coachella continues with Weezer, T-Pain and a Bernie Sanders appearance
+Benson Boone, GloRilla, Tyla and more. Highlights from the Coachella music festival, in photos
+Ahead of spaceflight, Katy Perry is reading Carl Sagan and channeling her 'feminine divine'
+AP Entertainment WireGet AP's first personalized newsletter delivering you entertainment news twice a week.
+As tariffs put trade between China and the US in peril, Chinese businesses ponder the future
+Trump's China tariff shocks US importers. One CEO calls it 'end of days'
+Trump administration says it will exclude some electronics from reciprocal tariffs
+Ancient jawbone from Taiwan belongs to a mysterious group of human ancestors, scientists say
+Soil from the moon's far side suggests drier conditions than the side facing Earth
+Billionaire spacewalker highlights Mars trip for astronauts in his bid to become NASA's next chief
+FACT FOCUS:  Trump misrepresents facts about coal as he signs executive orders to boost its use
+FACT FOCUS: Warren Buffett did not praise Trump's recent economic policies
+FACT FOCUS: Democratic leaders' challenge to Trump's election executive order misrepresented online
+Giant rodents cuddle with visitors at the Capybara Cafe in Florida
+Australian woman unknowingly gives birth to a stranger's baby after IVF clinic error
+Boris Johnson gets a surprise peck from an ostrich in Texas
+Altar found in Guatemalan jungle evidence of mingling of Mayan and Teotihuacan cultures, experts say
+Galapagos tortoises at Philadelphia Zoo become first-time parents at nearly 100
+Demand for viral 'torpedo' baseball bats has sent a Pennsylvania factory into overdrive
+Is 'microcheating' a new kind of infidelity for the social media age?
+Shingles is awful, but here's another reason to get vaccinated: It may fight dementia
+Cooking with kids teaches healthy eating, life skills and more
+Community, mentors and skill-building: Experts weigh the role of employee resource groups
+In the rapidly shifting world of work, many employees are unclear what’s expected of them
+How setting boundaries can improve your health at work
+AP News AlertsKeep your pulse on the news with breaking news alerts from The AP.
+The Morning WireOur flagship newsletter breaks down the biggest headlines of the day.
+Ground GameExclusive insights and key stories from the world of politics.
+Beyond the StoryExecutive Editor Julie Pace brings you behind the scenes of the AP newsroom.
+The Afternoon WireGet caught up on what you may have missed throughout the day.
+AP Entertainment WireGet AP's first personalized newsletter delivering you entertainment news twice a week.
+Photos from the world's largest wholesale market after Trump's tariffs kicked in
+A bombed-out Gaza university becomes a shelter for displaced Palestinians
+Ukrainian city mourns children killed by Russian missile
+The World in PicturesGet The AP’s most compelling photographs sent directly to your inbox.
+Global warming isn't funny -- except in the hands of these comedians
+Could Trump's tariffs slow emissions? Sure, experts say, but at great cost overall
+Major nations agree on first-ever global fee on greenhouse gases with plan that targets shipping
+RFK Jr. wants to target chronic disease in US tribes. A key program to do that was gutted
+Doctors remove pig kidney from an Alabama woman after a record 130 days
+Doctors testify Maradona should not have undergone surgery before his death
+Shingles is awful, but here's another reason to get vaccinated: It may fight dementia
+Boys with cancer can face infertility as adults. Can storing their stem cells help?
+Black women's hair products are in the safety spotlight. Here's what to know
+Trump administration says it will exclude some electronics from reciprocal tariffs
+Japanese leader says he hopes Osaka expo will help reunite a divided world
+Via porn, gore and ultra-violence, extremist groups are sinking hooks online into the very young
+Osaka Expo opens in Japan offering a vision of the future. Here's what to know
+Some state lawmakers are exploring proxy voting as congressional efforts fail
+Giant rodents cuddle with visitors at the Capybara Cafe in Florida
+Convalescing Pope Francis opens Holy Week with in-person greeting in St. Peter's Square
+Expect more fake eggs made of colored marshmallows or even potatoes on this year's Easter spread
+Judge says sexual abuse cases against San Francisco Archdiocese can go to trial
+World of FaithComprehensive global coverage of how religion shapes our world.
+LIVEElecciones en vivo: Noboa y González disputan la segunda vuelta en Ecuador
+Israel ataca un hospital en Gaza y fuerza evacuaciones mientras los bombardeos se intensifican
+Más de 30 muertos y 84 heridos en un ataque con misiles rusos sobre la ciudad ucraniana de Sumy
+El convaleciente papa Francisco inicia la Semana Santa con una aparición en la plaza de San Pedro.
+Inicia jornada en que Ecuador decide si gira a la izquierda con González o sigue mano dura de Noboa
+Iran and US envoys hold 1st negotiation over Tehran's nuclear program, and talk face-to-face
+As tariffs put trade between China and the US in peril, Chinese businesses ponder the future
+More than 30 people killed, 84 injured in Russian missile attack on Ukrainian city of Sumy
+The Morning WireOur flagship newsletter breaks down the biggest headlines of the day.
+The Afternoon WireGet caught up on what you may have missed throughout the day.
+Trump administration says it will exclude some electronics from reciprocal tariffs
+Judge relaxes ban on DOGE access to sensitive US Treasury information
+Lawyers for Sean 'Diddy' Combs want jurors at trial questioned about sex, drugs and violence
+The Morning WireOur flagship newsletter breaks down the biggest headlines of the day.
+US won't say whether it's facilitating return of mistakenly deported man, despite judge's order
+As tariffs put trade between China and the US in peril, Chinese businesses ponder the future
+Trump sits cageside at Miami UFC event in his latest appearance at a sports event
+Ground GameExclusive insights and key stories from the world of politics.
+Rory McIlroy has masterful start at Augusta and closes in on career Grand Slam
+Bryson DeChambeau is trying to chase down Rory McIlroy again in a major. He has 18 holes to do it
+Patrick Reed and Ludvig Aberg make Saturday moves at the Masters. Justin Rose drops back
+AP Top 25 Poll AlertsGet email alerts for every college football Top 25 Poll release.
+The Sports WireYour home base for in-depth reporting from the world of sports.
+AP PHOTOS: Coachella continues with Weezer, T-Pain and a Bernie Sanders appearance
+Benson Boone, GloRilla, Tyla and more. Highlights from the Coachella music festival, in photos
+Ahead of spaceflight, Katy Perry is reading Carl Sagan and channeling her 'feminine divine'
+AP Entertainment WireGet AP's first personalized newsletter delivering you entertainment news twice a week.
+As tariffs put trade between China and the US in peril, Chinese businesses ponder the future
+Trump's China tariff shocks US importers. One CEO calls it 'end of days'
+Trump administration says it will exclude some electronics from reciprocal tariffs
+Ancient jawbone from Taiwan belongs to a mysterious group of human ancestors, scientists say
+Soil from the moon's far side suggests drier conditions than the side facing Earth
+Billionaire spacewalker highlights Mars trip for astronauts in his bid to become NASA's next chief
+FACT FOCUS:  Trump misrepresents facts about coal as he signs executive orders to boost its use
+FACT FOCUS: Warren Buffett did not praise Trump's recent economic policies
+FACT FOCUS: Democratic leaders' challenge to Trump's election executive order misrepresented online
+Giant rodents cuddle with visitors at the Capybara Cafe in Florida
+Australian woman unknowingly gives birth to a stranger's baby after IVF clinic error
+Boris Johnson gets a surprise peck from an ostrich in Texas
+Altar found in Guatemalan jungle evidence of mingling of Mayan and Teotihuacan cultures, experts say
+Galapagos tortoises at Philadelphia Zoo become first-time parents at nearly 100
+Demand for viral 'torpedo' baseball bats has sent a Pennsylvania factory into overdrive
+Is 'microcheating' a new kind of infidelity for the social media age?
+Shingles is awful, but here's another reason to get vaccinated: It may fight dementia
+Cooking with kids teaches healthy eating, life skills and more
+Community, mentors and skill-building: Experts weigh the role of employee resource groups
+In the rapidly shifting world of work, many employees are unclear what’s expected of them
+How setting boundaries can improve your health at work
+AP News AlertsKeep your pulse on the news with breaking news alerts from The AP.
+The Morning WireOur flagship newsletter breaks down the biggest headlines of the day.
+Ground GameExclusive insights and key stories from the world of politics.
+Beyond the StoryExecutive Editor Julie Pace brings you behind the scenes of the AP newsroom.
+The Afternoon WireGet caught up on what you may have missed throughout the day.
+AP Entertainment WireGet AP's first personalized newsletter delivering you entertainment news twice a week.
+Photos from the world's largest wholesale market after Trump's tariffs kicked in
+A bombed-out Gaza university becomes a shelter for displaced Palestinians
+Ukrainian city mourns children killed by Russian missile
+The World in PicturesGet The AP’s most compelling photographs sent directly to your inbox.
+Global warming isn't funny -- except in the hands of these comedians
+Could Trump's tariffs slow emissions? Sure, experts say, but at great cost overall
+Major nations agree on first-ever global fee on greenhouse gases with plan that targets shipping
+RFK Jr. wants to target chronic disease in US tribes. A key program to do that was gutted
+Doctors remove pig kidney from an Alabama woman after a record 130 days
+Doctors testify Maradona should not have undergone surgery before his death
+Shingles is awful, but here's another reason to get vaccinated: It may fight dementia
+Boys with cancer can face infertility as adults. Can storing their stem cells help?
+Black women's hair products are in the safety spotlight. Here's what to know
+Trump administration says it will exclude some electronics from reciprocal tariffs
+Japanese leader says he hopes Osaka expo will help reunite a divided world
+Via porn, gore and ultra-violence, extremist groups are sinking hooks online into the very young
+Osaka Expo opens in Japan offering a vision of the future. Here's what to know
+Some state lawmakers are exploring proxy voting as congressional efforts fail
+Giant rodents cuddle with visitors at the Capybara Cafe in Florida
+Convalescing Pope Francis opens Holy Week with in-person greeting in St. Peter's Square
+Expect more fake eggs made of colored marshmallows or even potatoes on this year's Easter spread
+Judge says sexual abuse cases against San Francisco Archdiocese can go to trial
+World of FaithComprehensive global coverage of how religion shapes our world.
+LIVEElecciones en vivo: Noboa y González disputan la segunda vuelta en Ecuador
+Israel ataca un hospital en Gaza y fuerza evacuaciones mientras los bombardeos se intensifican
+Más de 30 muertos y 84 heridos en un ataque con misiles rusos sobre la ciudad ucraniana de Sumy
+El convaleciente papa Francisco inicia la Semana Santa con una aparición en la plaza de San Pedro.
+Inicia jornada en que Ecuador decide si gira a la izquierda con González o sigue mano dura de Noboa
+Limit Use and Disclosure of Sensitive Personal Information
+Limit Use and Disclosure of Sensitive Personal Information
+Iran and US envoys hold 1st negotiation over Tehran's nuclear program, and talk face-to-face
+As tariffs put trade between China and the US in peril, Chinese businesses ponder the future
+More than 30 people killed, 84 injured in Russian missile attack on Ukrainian city of Sumy
+The Morning WireOur flagship newsletter breaks down the biggest headlines of the day.
+The Afternoon WireGet caught up on what you may have missed throughout the day.
+Trump administration says it will exclude some electronics from reciprocal tariffs
+Judge relaxes ban on DOGE access to sensitive US Treasury information
+Lawyers for Sean 'Diddy' Combs want jurors at trial questioned about sex, drugs and violence
+The Morning WireOur flagship newsletter breaks down the biggest headlines of the day.
+US won't say whether it's facilitating return of mistakenly deported man, despite judge's order
+As tariffs put trade between China and the US in peril, Chinese businesses ponder the future
+Trump sits cageside at Miami UFC event in his latest appearance at a sports event
+Ground GameExclusive insights and key stories from the world of politics.
+Rory McIlroy has masterful start at Augusta and closes in on career Grand Slam
+Bryson DeChambeau is trying to chase down Rory McIlroy again in a major. He has 18 holes to do it
+Patrick Reed and Ludvig Aberg make Saturday moves at the Masters. Justin Rose drops back
+AP Top 25 Poll AlertsGet email alerts for every college football Top 25 Poll release.
+The Sports WireYour home base for in-depth reporting from the world of sports.
+AP PHOTOS: Coachella continues with Weezer, T-Pain and a Bernie Sanders appearance
+Benson Boone, GloRilla, Tyla and more. Highlights from the Coachella music festival, in photos
+Ahead of spaceflight, Katy Perry is reading Carl Sagan and channeling her 'feminine divine'
+AP Entertainment WireGet AP's first personalized newsletter delivering you entertainment news twice a week.
+As tariffs put trade between China and the US in peril, Chinese businesses ponder the future
+Trump's China tariff shocks US importers. One CEO calls it 'end of days'
+Trump administration says it will exclude some electronics from reciprocal tariffs
+Ancient jawbone from Taiwan belongs to a mysterious group of human ancestors, scientists say
+Soil from the moon's far side suggests drier conditions than the side facing Earth
+Billionaire spacewalker highlights Mars trip for astronauts in his bid to become NASA's next chief
+FACT FOCUS:  Trump misrepresents facts about coal as he signs executive orders to boost its use
+FACT FOCUS: Warren Buffett did not praise Trump's recent economic policies
+FACT FOCUS: Democratic leaders' challenge to Trump's election executive order misrepresented online
+Giant rodents cuddle with visitors at the Capybara Cafe in Florida
+Australian woman unknowingly gives birth to a stranger's baby after IVF clinic error
+Boris Johnson gets a surprise peck from an ostrich in Texas
+Altar found in Guatemalan jungle evidence of mingling of Mayan and Teotihuacan cultures, experts say
+Galapagos tortoises at Philadelphia Zoo become first-time parents at nearly 100
+Demand for viral 'torpedo' baseball bats has sent a Pennsylvania factory into overdrive
+Is 'microcheating' a new kind of infidelity for the social media age?
+Shingles is awful, but here's another reason to get vaccinated: It may fight dementia
+Cooking with kids teaches healthy eating, life skills and more
+Community, mentors and skill-building: Experts weigh the role of employee resource groups
+In the rapidly shifting world of work, many employees are unclear what’s expected of them
+How setting boundaries can improve your health at work
+AP News AlertsKeep your pulse on the news with breaking news alerts from The AP.
+The Morning WireOur flagship newsletter breaks down the biggest headlines of the day.
+Ground GameExclusive insights and key stories from the world of politics.
+Beyond the StoryExecutive Editor Julie Pace brings you behind the scenes of the AP newsroom.
+The Afternoon WireGet caught up on what you may have missed throughout the day.
+AP Entertainment WireGet AP's first personalized newsletter delivering you entertainment news twice a week.
+Photos from the world's largest wholesale market after Trump's tariffs kicked in
+A bombed-out Gaza university becomes a shelter for displaced Palestinians
+Ukrainian city mourns children killed by Russian missile
+The World in PicturesGet The AP’s most compelling photographs sent directly to your inbox.
+Global warming isn't funny -- except in the hands of these comedians
+Could Trump's tariffs slow emissions? Sure, experts say, but at great cost overall
+Major nations agree on first-ever global fee on greenhouse gases with plan that targets shipping
+RFK Jr. wants to target chronic disease in US tribes. A key program to do that was gutted
+Doctors remove pig kidney from an Alabama woman after a record 130 days
+Doctors testify Maradona should not have undergone surgery before his death
+Shingles is awful, but here's another reason to get vaccinated: It may fight dementia
+Boys with cancer can face infertility as adults. Can storing their stem cells help?
+Black women's hair products are in the safety spotlight. Here's what to know
+Trump administration says it will exclude some electronics from reciprocal tariffs
+Japanese leader says he hopes Osaka expo will help reunite a divided world
+Via porn, gore and ultra-violence, extremist groups are sinking hooks online into the very young
+Osaka Expo opens in Japan offering a vision of the future. Here's what to know
+Some state lawmakers are exploring proxy voting as congressional efforts fail
+Giant rodents cuddle with visitors at the Capybara Cafe in Florida
+Convalescing Pope Francis opens Holy Week with in-person greeting in St. Peter's Square
+Expect more fake eggs made of colored marshmallows or even potatoes on this year's Easter spread
+Judge says sexual abuse cases against San Francisco Archdiocese can go to trial
+World of FaithComprehensive global coverage of how religion shapes our world.
+LIVEElecciones en vivo: Noboa y González disputan la segunda vuelta en Ecuador
+Israel ataca un hospital en Gaza y fuerza evacuaciones mientras los bombardeos se intensifican
+Más de 30 muertos y 84 heridos en un ataque con misiles rusos sobre la ciudad ucraniana de Sumy
+El convaleciente papa Francisco inicia la Semana Santa con una aparición en la plaza de San Pedro.
+Inicia jornada en que Ecuador decide si gira a la izquierda con González o sigue mano dura de Noboa
+Iran and US envoys hold 1st negotiation over Tehran's nuclear program, and talk face-to-face
+As tariffs put trade between China and the US in peril, Chinese businesses ponder the future
+More than 30 people killed, 84 injured in Russian missile attack on Ukrainian city of Sumy
+The Morning WireOur flagship newsletter breaks down the biggest headlines of the day.
+The Afternoon WireGet caught up on what you may have missed throughout the day.
+Trump administration says it will exclude some electronics from reciprocal tariffs
+Judge relaxes ban on DOGE access to sensitive US Treasury information
+Lawyers for Sean 'Diddy' Combs want jurors at trial questioned about sex, drugs and violence
+The Morning WireOur flagship newsletter breaks down the biggest headlines of the day.
+US won't say whether it's facilitating return of mistakenly deported man, despite judge's order
+As tariffs put trade between China and the US in peril, Chinese businesses ponder the future
+Trump sits cageside at Miami UFC event in his latest appearance at a sports event
+Ground GameExclusive insights and key stories from the world of politics.
+Rory McIlroy has masterful start at Augusta and closes in on career Grand Slam
+Bryson DeChambeau is trying to chase down Rory McIlroy again in a major. He has 18 holes to do it
+Patrick Reed and Ludvig Aberg make Saturday moves at the Masters. Justin Rose drops back
+AP Top 25 Poll AlertsGet email alerts for every college football Top 25 Poll release.
+The Sports WireYour home base for in-depth reporting from the world of sports.
+AP PHOTOS: Coachella continues with Weezer, T-Pain and a Bernie Sanders appearance
+Benson Boone, GloRilla, Tyla and more. Highlights from the Coachella music festival, in photos
+Ahead of spaceflight, Katy Perry is reading Carl Sagan and channeling her 'feminine divine'
+AP Entertainment WireGet AP's first personalized newsletter delivering you entertainment news twice a week.
+As tariffs put trade between China and the US in peril, Chinese businesses ponder the future
+Trump's China tariff shocks US importers. One CEO calls it 'end of days'
+Trump administration says it will exclude some electronics from reciprocal tariffs
+Ancient jawbone from Taiwan belongs to a mysterious group of human ancestors, scientists say
+Soil from the moon's far side suggests drier conditions than the side facing Earth
+Billionaire spacewalker highlights Mars trip for astronauts in his bid to become NASA's next chief
+FACT FOCUS:  Trump misrepresents facts about coal as he signs executive orders to boost its use
+FACT FOCUS: Warren Buffett did not praise Trump's recent economic policies
+FACT FOCUS: Democratic leaders' challenge to Trump's election executive order misrepresented online
+Giant rodents cuddle with visitors at the Capybara Cafe in Florida
+Australian woman unknowingly gives birth to a stranger's baby after IVF clinic error
+Boris Johnson gets a surprise peck from an ostrich in Texas
+Altar found in Guatemalan jungle evidence of mingling of Mayan and Teotihuacan cultures, experts say
+Galapagos tortoises at Philadelphia Zoo become first-time parents at nearly 100
+Demand for viral 'torpedo' baseball bats has sent a Pennsylvania factory into overdrive
+Is 'microcheating' a new kind of infidelity for the social media age?
+Shingles is awful, but here's another reason to get vaccinated: It may fight dementia
+Cooking with kids teaches healthy eating, life skills and more
+Community, mentors and skill-building: Experts weigh the role of employee resource groups
+In the rapidly shifting world of work, many employees are unclear what’s expected of them
+How setting boundaries can improve your health at work
+AP News AlertsKeep your pulse on the news with breaking news alerts from The AP.
+The Morning WireOur flagship newsletter breaks down the biggest headlines of the day.
+Ground GameExclusive insights and key stories from the world of politics.
+Beyond the StoryExecutive Editor Julie Pace brings you behind the scenes of the AP newsroom.
+The Afternoon WireGet caught up on what you may have missed throughout the day.
+AP Entertainment WireGet AP's first personalized newsletter delivering you entertainment news twice a week.
+Photos from the world's largest wholesale market after Trump's tariffs kicked in
+A bombed-out Gaza university becomes a shelter for displaced Palestinians
+Ukrainian city mourns children killed by Russian missile
+The World in PicturesGet The AP’s most compelling photographs sent directly to your inbox.
+Global warming isn't funny -- except in the hands of these comedians
+Could Trump's tariffs slow emissions? Sure, experts say, but at great cost overall
+Major nations agree on first-ever global fee on greenhouse gases with plan that targets shipping
+RFK Jr. wants to target chronic disease in US tribes. A key program to do that was gutted
+Doctors remove pig kidney from an Alabama woman after a record 130 days
+Doctors testify Maradona should not have undergone surgery before his death
+Shingles is awful, but here's another reason to get vaccinated: It may fight dementia
+Boys with cancer can face infertility as adults. Can storing their stem cells help?
+Black women's hair products are in the safety spotlight. Here's what to know
+Trump administration says it will exclude some electronics from reciprocal tariffs
+Japanese leader says he hopes Osaka expo will help reunite a divided world
+Via porn, gore and ultra-violence, extremist groups are sinking hooks online into the very young
+Osaka Expo opens in Japan offering a vision of the future. Here's what to know
+Some state lawmakers are exploring proxy voting as congressional efforts fail
+Giant rodents cuddle with visitors at the Capybara Cafe in Florida
+Convalescing Pope Francis opens Holy Week with in-person greeting in St. Peter's Square
+Expect more fake eggs made of colored marshmallows or even potatoes on this year's Easter spread
+Judge says sexual abuse cases against San Francisco Archdiocese can go to trial
+World of FaithComprehensive global coverage of how religion shapes our world.
+LIVEElecciones en vivo: Noboa y González disputan la segunda vuelta en Ecuador
+Israel ataca un hospital en Gaza y fuerza evacuaciones mientras los bombardeos se intensifican
+Más de 30 muertos y 84 heridos en un ataque con misiles rusos sobre la ciudad ucraniana de Sumy
+El convaleciente papa Francisco inicia la Semana Santa con una aparición en la plaza de San Pedro.
+Inicia jornada en que Ecuador decide si gira a la izquierda con González o sigue mano dura de Noboa
+Limit Use and Disclosure of Sensitive Personal Information
+Limit Use and Disclosure of Sensitive Personal Information
+As tariffs put trade between China and the US in peril, Chinese businesses ponder the future
+The 145% tariff from the U.S. and the retaliatory 125% tariff from China are putting businesses doing trade between the U.S. and China on edge.
+Trump’s China tariff shocks US importers. One CEO calls it ‘end of days’
+Trump administration says it will exclude some electronics from reciprocal tariffs
+Democrats dislike the ‘chaos’ of Trump’s trade war but are OK with some tariffs
+Osaka Expo opens in Japan offering a vision of the future. Here’s what to know
+JPMorgan logs Q1 profit of $14.6 billion as CEO warns of uncertainty over global trade, other events
+US stocks jump and the bond market swings to cap Wall Street’s chaotic and historic week
+US stocks dive as euphoria on Wall Street reverts to fear about US-China trade war
+Trump reverses tariffs that caused market meltdown, but companies remain bewildered
+Tax tips for recently married couples and first-time parents
+Got your first job? Here are some tax tips for first-time filers
+Haven’t filed your 2021 tax return? You might be missing out on a COVID stimulus check
+UK economy enjoyed unexpected growth spurt in February before Trump tariff turmoil
+Germany’s economy is expected to be more or less stagnant this year
+Trump disrupts global economic order even though the US is dominant
+Will the tariffs lead to a recession? Here’s how to know if we’re in one
+Via porn, gore and ultra-violence, extremist groups are sinking hooks online into the very young
+Japanese leader says he hopes Osaka expo will help reunite a divided world
+Irish privacy watchdog investigates Elon Musk’s X’s use of personal data to train Grok AI chatbot
+EU irked by Turkish warnings against Greece-Cyprus-Israel electricity cable link, Cyprus says
+New gear could keep California crab fishermen on the water longer, and whales safe
+After years of a shortened crab fishing season aimed at preventing whale entanglements off the West Coast, California crabbers are experimenting with a new fishing method that allows them to stay on the water longer while keeping the marine mammals safe.
+Inspections of affected barrels will take time as flood cleanup progresses at Kentucky distillery
+Signs of renewal are underway at the Buffalo Trace Distillery in Kentucky since the floodwaters have receded.
+Regulators order corrective action as Keystone Pipeline operators aim to restore service
+Federal regulators have ordered the operator of the Keystone Pipeline to take several corrective actions after a rupture caused 147,000 gallons of oil to spill onto farmland in North Dakota.
+Meet Ohio’s William McKinley, Trump’s much-admired Gilded Age president
+If there’s one place where interest in William McKinley has remained unwavering, it’s in the 25th president’s native northeast Ohio.
+UK government takes over day-to-day running of British Steel from Chinese owner Jingye
+U.K. lawmakers returned to Parliament from their Easter break to approve an emergency rescue of the country’s last remaining factory that makes steel directly from scratch.
+Foot-and-mouth disease outbreak in Central Europe leads to animal culls and border closures
+Authorities across Central Europe are working to contain a major foot-and-mouth disease outbreak, the first in over 50 years for Hungary and Slovakia.
+Furniture exporters in Malaysia race to beat Trump’s 90-day tariff window
+MUAR, Malaysia (AP) — In southern Malaysia, furniture manufacturers are in a race against U.S. President Donald Trump’s tariffs.
+In Germany’s financial capital, traditional water houses bring people of all classes together
+Frankfurt has become Germany’s financial capital, known for the country’s only high-rise skyline. But look closer to the ground and you’ll find a tradition that brings rich and poor, bankers and punks together.
+Deadly crash raises new questions about safety of New York’s helicopter tours
+A helicopter crash that killed six in New York City has renewed concerns about the safety of the popular sightseeing excursions.
+Market volatility complicates work for lawmakers in Alaska, a state whose fortunes are tied to oil
+President Donald Trump’s on-again, off-again tariffs and a related drop in oil prices have contributed to the uncertainty for Alaska lawmakers tasked each year with crafting a state budget based on volatile oil prices.
+Expect more fake eggs made of colored marshmallows or even potatoes on this year’s Easter spread
+The internet has offered up a host of alternatives as egg prices continue to be stubbornly high. Influencers are dyeing everything from marshmallows to potatoes.
+In key milestones for President Milei, Argentina secures IMF deal and ends most capital controls
+President Javier Milei says that he will lift most of the country’s strict capital and currency controls next week, a high-stakes gamble made possible by a new loan from the International Monetary Fund.
+How major US stock indexes fared Friday, 4/11/2025
+U.S. stocks jumped in another manic day on Wall Street, but the falling value of the U.S. dollar and other swings in financial markets suggest worries about President Donald Trump’s trade war remain high.
+Wickens returns to elite racing with use of hand controls 7 years after he was paralyzed in a crash
+Nearly seven years after he was paralyzed in an IndyCar crash, Robert Wickens will return to elite competition when he drives a Corvette in the IMSA sports car race on the downtown streets of Long Beach.
+General Motors temporarily halts a Canada assembly plant because of low demand
+Canada’s subsidiary of General Motors says that it’s temporarily halting production and cutting staff at an assembly plant in Ingersoll, Ontario, because of lower-than-expected demand for its electric delivery vehicles.
+Freak sell-off of ‘safe haven’ US bonds raises fear that confidence in America is fading
+The upheaval in stocks has been grabbing all the headlines, but there is a bigger problem looming in another corner of the financial markets that rarely gets headlines: Investors are dumping U.S. government bonds.
+Workshops empty, Bethlehem carvers fret over second Easter with no tourists
+Bethlehem workshops where carvers toil over small pieces of olive wood sit empty these days.On most Easters the shops lining the streets of the town known as Jesus’s birthplace would be bustling with tourists.
+Helicopter business in deadly NYC crash had faced debt lawsuits
+New York Helicopter has plied the skies around New York City landmarks for decades. But the company had some difficulties before one of its sightseeing choppers plunged into the Hudson River this week, killing all six people aboard.
+Could Trump’s tariffs slow emissions? Sure, experts say, but at great cost overall
+President Donald Trump’s sweeping global tariffs could cause planet-warming greenhouse gas emissions to drop temporarily, but that won’t help the climate long-term.
+Trump reaches deals with 5 law firms, allowing them to avoid prospect of punishing executive orders
+President Donald Trump has announced deals with five law firms that will allow them to avoid the prospect of a punishing executive order.
+Limit Use and Disclosure of Sensitive Personal Information
+Limit Use and Disclosure of Sensitive Personal Information
 
+!Titles for https://www.forbes.com/business/
 
-[gemma3 Response to "As sales slump, Kohl’s turns to a new CEO to bring back customers":]
-Positive
+Facing A Volatile Market, C-Suites Look To The CFO For Strategic Guidance
+Hyoeun Kim On LG's Brand Promise, "Life's Good"| Paid Program
+Thomson Reuters Insights: 4 Factors To Explore When Considering Professional-Grade AI  ​| Paid Program
+H&R Block: Block Advisors BrandVoice - Take The Tax Season Challenge| Paid Program
+Your Four-Part Blueprint To Unlock AI Value In 2025| Paid Program
+Sponsored by Invesco QQQ: America's Top Women Wealth Advisors (Best in State) List| Paid Program
+Diners Club International Celebrates 75 Years| Paid Program
+Sponsored by FIS Global: Forbes 2025 FinTech 50 List| Paid Program
+Celebrating The Power Of Partnership: Why Teamwork Is Key In the Fight Against Cancer| Paid Program
+Protecting What Matters Most: How Gerber Life Insurance Offers Affordable Coverage For Your Whole Family| Paid Program
+Presented by EY - Beyond The Blueprint: How These Four CEOs Built Billion-Dollar Businesses| Paid Program
+2/3 By 2030: Philip Morris International Marks A Milestone  And Aims For A Smoke-Free Future| Paid Program
+Forbes Insights: Your Guide To Marketing In The Era Of AI| Paid Program
+The Undergrad's New Journey To Real-World Ready| Paid Program
+Forbes Insights: Your Five-Step Strategy To Unleash AI’s Value In Marketing| Paid Program
+This Irish Drone Startup Is Aiming For A Million Deliveries A Year
+How Kettle & Fire Turned Bone Broth Into A $100 Million Business
+Behind Poppi’s Eye-Popping Price Tag After PepsiCo Deal
+The Trillion-Dollar A.I. Data Center Tsunami —Coming To A Field Near You
+RFK Jr. Confirmation: Mike Pence’s Group Urges Senators To Reject Trump’s HHS Pick
+Where Is Sports Betting Legal? A Guide To All 50 States
+‘Duck Dynasty’ Reboot Launches This Summer—Starring Original Cast, Next Generation Of Robertson Family
+The Secret To An Amazing Customer Experience: A Hospitality Mentality
+These 7 Aircraft Cabin Innovations Aim To Make Flying Better
+How Igor Tudor Empowered Juventus Players To Secure Win Over Lecce
+Real Madrid Plotting Raid For Second Liverpool Star, MARCA Reports
+BLACKPINK Get Third ‘RuPaul’s Drag Race’ Feature With ‘APT.’ Lip Sync
+A Smattering Of 2023 Spring Rosé And White Wines To Sample
+UFC 314 Bonus Winners, KO Highlights And Reactions
+Rory’s Grand Slam Quest Faces One DeChambeau-Sized Hurdle At Masters
+Unconventional Leadoff Approach Working For The New York Yankees So Far
+‘Captain America: Brave New World’ Arrives On Streaming This Week
+Jenna Ortega’s ‘Death Of A Unicorn’ Gets Digital Streaming Date
+‘Snow White’ Drops Out Of Box Office Top 5 After Shedding 1,210 Venues
+Jaron ‘Boots’ Ennis Vs. Eimantas Stanionis Full Fight Card Results
+UFC 314 Results: Winners And Losers - Volkanovski Vs. Lopes Fight Card
+This Pharma Company Is Betting Big On A Chinese Ozempic Rival
+Jaron ‘Boots’ Ennis Vs. Eimantas Stanionis: What Time Does It Start?
+Bill Maher Details Dinner With ‘Gracious And Measured’ Trump At White House
+Today’s NYT Mini Crossword Clues And Answers For Saturday, April 12th
+‘A Minecraft Movie’ On Pace For $80 Million Box Office In Weekend  2
+Today’s ‘Wordle’ #1393 Hints, Clues And Answer For Saturday, April 12th
+UFC Legend Confirms Return From Retirement During Explosive Presser
+South Of A Billion: Why Glossier’s Era Of Unicorn Hype May Be Over
+Limit the Use of My Sensitive Personal Information
 
+!Titles for https://abcnews.go.com/Business
 
-[gemma3 Response to "Expect record-high egg prices for most of the year":]
-Negative
+Trump tariffs create uncertainty in housing market
+Stocks close lower, erasing some of historic rally
+Average US rate on 30-year mortgage falls to 6.62%
+Justin Sullivan/Getty Images'Not a positive sign': Top Tesla officials sell shares in recent weeksShares of Tesla have plunged nearly 50% since a peak in mid-December.March 18, 2025
+Spain’s prime minister visits China to strengthen ties with Trump's top tariff targetChina and the West should join in supporting multilateralism and open cooperation, Chinese President Xi Jinping has told Spain’s visiting Prime Minister Pedro Sánchez, underscoring China’s opposition to U.S. demands amid global economic uncertainty cau...April 10, 2025
+Harvard says tuition will be free for families making $200K or lessThe changes go into effect for the 2025-2026 academic year.March 17, 2025
+World's largest deforestation project fells forests for bioethanol fuel, sugar and rice in IndonesiaIndonesia plans to clear forests about the size of Belgium to produce sugarcane-derived bioethanol, rice and other food crops, potentially displacing Indigenous groups who rely on the land to surviveApril 07, 2025
+Tax tips for recently married couples and first-time parents
+As tariffs put trade between China and the US in peril, Chinese businesses ponder the future
+'The markets are looking for anything to rally off of': Economist on tariffs
+Argentina's inflation was higher than expected in March, unwelcome news for President Milei
+US stocks close higher, ending week of historic volatility with upswing
+How major US stock indexes fared Friday, 4/11/2025
+US toy store owner says costs will skyrocket due to China tariffs
+US stocks close higher, ending week of historic volatility with upswing
+Could Trump's tariffs slow emissions? Sure, experts say, but at great cost overall
+How the trade war with China could impact prices in US
+A bond selloff is worrying Wall Street. Here's why it matters for you.
+Rest of the world see's 'US as a risky place to invest': Economist
+Trump tariffs grind on coffee and chocolate business owners
+Consumer attitudes worsen amid Trump's tariff escalation: Survey
+Walmart employee kills co-worker in Georgia store, wounds person outside sheriff says
+JPMorgan CEO warns of uncertainty over global trade; bank logs Q1 profits of $14.6B
+Here's what some exporters in China say about Trump's trade war
+In fight over insurance, neighbors crowdsource LA fire contamination data
+Spain’s prime minister visits China to strengthen ties with Trump's top tariff target
+Nuns invest in the stock market to secure futures and highlight causes
+Tesla launches in Saudi Arabia with its first showroom and service center in Riyadh
+Stocks close lower, erasing some of historic rally
+Meet the Gulf shrimpers rooting on Trump's tariffs in a Texas fishing town
+US stocks close sharply lower, wiping away some of historic rally a day earlier
+'Damage has been done': Trump's tariffs still risk inflation and recession
+Trump defends tariffs but notes there will be 'transition problems'
+Trump nominee for public lands post withdraws after her criticism of Jan. 6 attack surfaces
+Average US rate on a 30-year mortgage falls to 6.62%, easing for 3rd week in a row
+Where things stand for Trump in global tariff battle
+Coffee CEO will ‘keep holding on’ amid Trump tariffs
+Cabot Creamery butter recalled over fecal bacteria contamination
+US stocks slide, wiping away some of historic rally a day earlier
+US seeking 'selfish gains' with tariffs China says
+Prada Group buys Versace fashion house from its U.S. owner in a deal valued at $1.4 billion
+US jobless benefit applications rise modestly as labor market unfazed by trade war
+Inflation cooled but egg prices soared in March, before Trump's tariff escalation
+China reaches out to others as Trump layers on tariffs
+Johnson vows to try again after GOP holdouts block action on Trump’s ‘big, beautiful’ budget bill
+South Korean opposition leader Lee opens presidential bid following Yoon's ouster
+At a little known Rolls-Royce museum in Pennsylvania farm country, volunteers dote over iconic cars
+Trump's new energy order puts states' climate laws in the crosshairs of the Department of Justice
+Peter Navarro on tariff reversal: ‘Every American today should be proud’
+Inflation likely cooled last month as businesses braced for higher tariffs
+Small business owner speaks out about Trump;s Tariffs
+Another U-Turn: Trump reverses tariffs that caused market meltdown, but companies remain bewildered
+Stocks soar after Trump pauses some tariffs, raises tariffs for China
+Dow closes up 2,962 points in market rally as Trump backs off some tariffs
+Consumer Alert: Millions of Home Dehumidifiers Recalled
+Mechanic's Apparent Joy Ride in Customer's Vehicle Caught on Dashcam
+Made In America: Oprah Winfrey is back with her 'Favorite Things' of 2024
+Made In America: Oprah Winfrey shares her 'Favorite Things' of the year
 
+!Titles for https://www.stltoday.com/news/local/business/#tracking-source=main-nav
+Missouri effort to cut red tape for emerging businesses off to slow start
+Business Bulletin: G&W acquires; BriteWorX adds; Checker bag celebrates; CVA grows; WWT wins
+People in Business: Alltru promotes; SIU-E hires; St. Johns Bank adds; U. City appoints
+Company hires retired cops to transport weed and cash around Missouri
+Health officials prepare as measles cases creep closer to Missouri
+Creve Coeur firm to lay off over 200 nurses after losing federal contract
+Bipartisan pushback stalls Missouri Senate vote to crack down on some hemp products
+Bruce Sommer, key executive at downtown convention center for 25 years, dead at 83
+Weed grower in south St. Louis County sues to recoup $200k in unpaid debts
+Long-shot gambling overhaul approved by razor-thin margin in Missouri House
+Missouri’s public health efforts left reeling after feds abruptly rescind funding
+St. Louis Science Center’s chief wants to find new revenue, build ‘fun family experience’
+People in Business: Fashion Fund names; SLSO elects; Black Radio HOF inducts
+Business Bulletin: Lochmueller wins; First Mid accepts; SLU researches; Western celebrates
+Bayer asks high court to take $1.25 million Roundup appeal
+Critics of St. Louis’ North Side grants sue to halt program
+Senate proposal would open Missouri’s energy market up to competition
+St. Louis-area business openings and closings in March
+Pavement paradise? St. Louis' 3 days at the center of the asphalt universe
+Business Bulletin: UMSL partners; Stephens expands; Throttlenet celebrates; Transit Stop opens
+People in Business: IMPACT promotes; NewGround hires; Western promotes; KAI 360 adds
+Boeing won a giant contract for fighter jets. Will it deliver for St. Louis?
+St. Louis officials seek plans to redevelop Railway Exchange lot and garage
+St. Louis bars, venues launch boycott after Anheuser-Busch drops out of PrideFest
+Procter & Gamble ends sponsorship for St. Charles County Pride festival
+Rung for Women helps mid-career women make a switch to STEM jobs in St. Louis
+Top St. Louis auditor works on the side for businesses linked to major city contractor
+Hot dog! Cardinals season brings fancy sausages, umbrella hats and more to Busch
+How to Style Nike Sneakers with Nike Clothing: The Ultimate Guide to Streetwear and Athleisure Looks
+Online Resume Services: TopResume, ZipJob, Resume.io & Career.io Reviewed
+T-Mobile’s Discounted Plans for Military & Veterans: Affordable Connectivity for Those Who Serve
+Get Lucky Savings This St. Patrick’s Day with Groupon – Up to 70% Off Local Fun
 
