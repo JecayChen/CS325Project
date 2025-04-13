@@ -111,17 +111,18 @@ def requestFile():
             continue
 
 def outputTitles(fileName):
-    #clean the response text
+    #clean the response text file
     with open('response.txt', 'w') as writeFile:
         writeFile.write("")
 
+    #read the websites file
     with open(fileName, 'r') as readFile:
-        for line in readFile:
-            scrape = Webscraper(line)
-            titleNames = scrape.scrapeTitles()
-            with open('response.txt', 'a') as writeFile:
-                writeFile.write(f"!Titles for {line}\n")
-                for title in titleNames:
+        for line in readFile: #for each website
+            scrape = Webscraper(line) #check to see if its valid
+            titleNames = scrape.scrapeTitles() #and scrape titles
+            with open('response.txt', 'a') as writeFile: #output file
+                writeFile.write(f"!Titles for {line}\n") #website name
+                for title in titleNames: #all the titles in website
                     writeFile.write(title + "\n")
                 writeFile.write("\n")
 
