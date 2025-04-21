@@ -1,13 +1,13 @@
 import requests
 from bs4 import BeautifulSoup
 
-class Webscraper:
+class WebScraper:
     def __init__(self, url):
         self.url = url.strip()
     
-#checks url connection response
-#return true if successful
-#return false if unsuccessful
+    #checks url connection response
+    #return true if successful
+    #return false if unsuccessful
     def testURL(self):
         try:
             response = requests.get(self.url) #attempts connection
