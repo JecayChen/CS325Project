@@ -5,12 +5,9 @@
 # - LlmProcessor is instantiated with a filename
 #   - 
 # requestFile() - the menu for user to enter in a file name to read
-# outputNewsTitles(fileName) - outputs the titles of articles with WebScraper
-# outputLLMResponse(fileName) - outputs the LLM response from given titles
+# requestLLM() - the menu for the user to select which LLM to use
 
-import sys
 import os
-import subprocess #needed for CLI inputs
 from webscraper import WebScraper #object for webscraping websites
 from llmprocessor import LlmProcessor #object for llm sentiment analysis
 
@@ -23,7 +20,6 @@ _LLM_OUTPUT = "txt_llmOutput.txt"
 def main():
     fileName = requestFile()
     llmModel = requestLLM()
-    outputNewsTitles(fileName)
 
 #requests for file name or quit
 def requestFile():
@@ -53,22 +49,6 @@ def requestLLM():
         else:
             print("Invalid Input.")
             continue
-
-def outputNewsTitles(fileName):
-    #clean the response text file
-    with open(_WEBSCRAPE_OUTPUT, 'w') as writeFile:
-        writeFile.write("")
-
-    #read the websites file
-    with open(fileName, 'r') as readFile:
-        for line in readFile: #for each website
-            scrape = WebScraper(line) #check to see if its valid
-            titleNames = scrape.scrapeTitles() #and scrape titles
-            with open(_WEBSCRAPE_OUTPUT, 'a') as writeFile: #output file
-                writeFile.write(f"!Titles for {line}\n") #website name
-                for title in titleNames: #all the titles in website
-                    writeFile.write(title + "\n")
-                writeFile.write("\n")
 
 if __name__ == "__main__":
     main()
