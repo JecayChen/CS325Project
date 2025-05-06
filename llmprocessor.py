@@ -25,3 +25,4 @@ class LlmProcessor:
 
         except subprocess.CalledProcessError as e:
             print(f"[Error while calling Ollama: {e}]")
+            return f'[Response to "{queryInput.strip()}"] => error\n'
