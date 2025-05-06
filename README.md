@@ -1,28 +1,25 @@
 # CS325 Project
 
-This is a negative, positive, neutral sentiment analyzer.
-An additional web scraper for most websites has been added.
+Hello! This is a business article sentiment analyzer. By inputting in a text file of news websites, it will attempt to scrape and analyze the titles with a preloaded LLM. The output will be in the TextFiles folder.
 
 NOTE: The web scraper may not work for specific websites that are designed differently or are protected. Your milage wil vary.
 
-NOTE: Currently the sentiment analyzer has been disabled due to conflicts with the web scrapper. We are currently working on rectifying this issue.
-
-Currently, it is preloaded with:
+Currently, the LLMs preloaded are:
 - Phi3.5
 - Gemma3:4B
-- a file reader
 
 ## Setting Up
 
-1. Go to [Ollama](https://ollama.com/download) and download the most recent version for your device.
-2. Run Ollama.
-3. Enter these commands in the CLI to install the most recent version of phi3.5 and gemma3:4b
+1.	Go to [Anaconda]( https://www.anaconda.com/docs/getting-started/miniconda/install) and follow the instructions for download the most recent version for your device.
+2.	Go to [Ollama](https://ollama.com/download) and download the most recent version for your device.
+3.	Run Ollama.
+4.	Enter these commands in the CLI to install the most recent version of phi3.5 and gemma3:4b
     - <code>ollama pull phi3.5</code>
-    - <code>ollama pull gemma3:4b</code>V
-4. Download the project files and locate them in the CLI.
-5. Import the .yaml file for the Conda environment and activate it.
+    - <code>ollama pull gemma3:4b</code>
+5.	Download the project files and locate them in the CLI.
+6.	Import the .yaml file for the Conda environment and activate it.
     - <code>conda env create -f requirements.yaml</code>
     - <code>conda activate cs325project</code>
-6. Run the Python main.py script
+7.	Run the Python main.py script
     - <code>python main.py</code>
-7. Respond to the prompts and get results.
+8.	Respond to the prompts and get results.
