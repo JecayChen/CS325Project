@@ -9,7 +9,7 @@ class LlmProcessor:
         modelName = self.modelName
 
         #prep for sentiment query
-        sentimentPrep = "Respond with concisely only either negative, positive, or neutral sentiment of this statement:" #specifying AI
+        sentimentPrep = "Respond concisely and without explanation of why with only either negative, positive, or neutral sentiment of this statement:" #specifying AI
 
         #query command
         llmPrompt = sentimentPrep + " " + queryInput
@@ -19,8 +19,9 @@ class LlmProcessor:
         try:
             response = subprocess.run(queryCommand, capture_output=True, text=True, check=True) #retrieve response from ollama
             responseSummary = re.search(r"\b(positive|negative|neutral)\b", response.stdout.lower()) #regex search for one word sentiment
+            sentiment = responseSummary.group(1) if responseSummary else "unknown"
 
-            return "[Response to \"" + queryInput + "\":]\n" + responseSummary #output string
+            return f'[Response to "{queryInput.strip()}"] => {sentiment}\n' #output string
 
         except subprocess.CalledProcessError as e:
             print(f"[Error while calling Ollama: {e}]")
