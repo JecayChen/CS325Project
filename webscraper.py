@@ -27,24 +27,24 @@ class WebScraper:
     #scrape webpage for article titles
     #returns a string array of titles
     def scrapeTitles(self):
-        if self.testURL(): #restURL successful
+        if self.testURL(): #testURL successful
             url = self.url
             try: #try-catch for errors in retrieving titles
-                response = requests.get(url)
-                soup = BeautifulSoup(response.content, 'html.parser')
-                titles = []
-                MIN_LENGTH = 50
+                response = requests.get(url) #html of url
+                soup = BeautifulSoup(response.content, 'html.parser') #beautifulsoup parser object
+                titles = [] #array of article scraped article titles
+                MIN_LENGTH = 50 #sensitivity of title character length
 
-                #scrapes the html for article title links that are at least a certain length long
+                #scrapes the html for article title links that are at least MIN_LENGTH length long
                 for links in soup.find_all('a', href=True): #searches for all <a href> links
-                    text = links.get_text(strip=True) #get the raw text for each link
-                    if text and len(text) >= MIN_LENGTH: #if the raw text exists and is over minimum characters
+                    text = links.get_text(strip=True) #get the element content for each link
+                    if text and len(text) >= MIN_LENGTH: #if the element content exists and is over minimum characters
                         titles.append(text) #add if to the title list
-                return titles
+                return titles #returns the array of titles
             
-            except Exception as e:
+            except Exception as e: #scrape unsuccessful
                 print(f"Error in scrapeTitles: {e}")
                 return []
-        else:
+        else: #testURL unsuccessful
             print(f"Error in connection. Unable to perform scrapeTitles")
             return []
